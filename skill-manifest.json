@@ -1,0 +1,17 @@
+{
+  "repository": "ai-model-engineering-studio",
+  "title": "AI Model Engineering Studio",
+  "master_skill": "ai-model-engineering-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "llm-engineer.md",
+    "neural-network-engineer.md",
+    "machine-learning-engineer.md",
+    "model-training-engineer.md",
+    "computer-vision-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 5,
+  "human_centered_modules": [],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}
